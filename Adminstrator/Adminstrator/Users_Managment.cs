@@ -13,7 +13,7 @@ namespace Adminstrator
 {
     public partial class Users_Managment : Form
     {
-        public static string Constr = @"Data Source=DESKTOP-7JIFNRJ\INSTANCE2;initial catalog =HR;User ID=sa;Password=mohammedalwan1";
+        public static string Constr = @"Data Source= ;initial catalog =HR;User ID=sa;Password=m ";
 
         public Users_Managment()
         {
