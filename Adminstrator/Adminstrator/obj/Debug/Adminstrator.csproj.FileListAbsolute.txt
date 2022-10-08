@@ -1,0 +1,36 @@
+C:\Users\mohammed\Desktop\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.Admin.resources
+C:\Users\mohammed\Desktop\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.Properties.Resources.resources
+C:\Users\mohammed\Desktop\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.csproj.GenerateResource.cache
+C:\Users\mohammed\Desktop\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.csproj.CoreCompileInputs.cache
+C:\Users\mohammed\Desktop\Adminstrator\Adminstrator\Adminstrator\bin\Debug\Adminstrator.exe.config
+C:\Users\mohammed\Desktop\Adminstrator\Adminstrator\Adminstrator\bin\Debug\Adminstrator.exe
+C:\Users\mohammed\Desktop\Adminstrator\Adminstrator\Adminstrator\bin\Debug\Adminstrator.pdb
+C:\Users\mohammed\Desktop\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.exe
+C:\Users\mohammed\Desktop\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.pdb
+C:\Users\mohammed\Desktop\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.csprojAssemblyReference.cache
+C:\Users\mohammed\Desktop\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.Departments_manager.resources
+C:\Users\mohammed\Desktop\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.Users_Managment.resources
+C:\Users\mohammed\Desktop\backup\dminstrator\v1\Adminstrator\Adminstrator\Adminstrator\bin\Debug\Adminstrator.exe.config
+C:\Users\mohammed\Desktop\backup\dminstrator\v1\Adminstrator\Adminstrator\Adminstrator\bin\Debug\Adminstrator.exe
+C:\Users\mohammed\Desktop\backup\dminstrator\v1\Adminstrator\Adminstrator\Adminstrator\bin\Debug\Adminstrator.pdb
+C:\Users\mohammed\Desktop\backup\dminstrator\v1\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.csprojAssemblyReference.cache
+C:\Users\mohammed\Desktop\backup\dminstrator\v1\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.Admin.resources
+C:\Users\mohammed\Desktop\backup\dminstrator\v1\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.Departments_manager.resources
+C:\Users\mohammed\Desktop\backup\dminstrator\v1\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.Properties.Resources.resources
+C:\Users\mohammed\Desktop\backup\dminstrator\v1\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.Users_Managment.resources
+C:\Users\mohammed\Desktop\backup\dminstrator\v1\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.csproj.GenerateResource.cache
+C:\Users\mohammed\Desktop\backup\dminstrator\v1\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.csproj.CoreCompileInputs.cache
+C:\Users\mohammed\Desktop\backup\dminstrator\v1\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.exe
+C:\Users\mohammed\Desktop\backup\dminstrator\v1\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.pdb
+C:\Users\mohammed\Desktop\windows form\Adminstrator\Adminstrator\Adminstrator\bin\Debug\Adminstrator.exe.config
+C:\Users\mohammed\Desktop\windows form\Adminstrator\Adminstrator\Adminstrator\bin\Debug\Adminstrator.exe
+C:\Users\mohammed\Desktop\windows form\Adminstrator\Adminstrator\Adminstrator\bin\Debug\Adminstrator.pdb
+C:\Users\mohammed\Desktop\windows form\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.csprojAssemblyReference.cache
+C:\Users\mohammed\Desktop\windows form\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.Admin.resources
+C:\Users\mohammed\Desktop\windows form\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.Departments_manager.resources
+C:\Users\mohammed\Desktop\windows form\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.Properties.Resources.resources
+C:\Users\mohammed\Desktop\windows form\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.Users_Managment.resources
+C:\Users\mohammed\Desktop\windows form\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.csproj.GenerateResource.cache
+C:\Users\mohammed\Desktop\windows form\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.csproj.CoreCompileInputs.cache
+C:\Users\mohammed\Desktop\windows form\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.exe
+C:\Users\mohammed\Desktop\windows form\Adminstrator\Adminstrator\Adminstrator\obj\Debug\Adminstrator.pdb
